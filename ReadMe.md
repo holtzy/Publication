@@ -6,7 +6,7 @@
 
 - *Epistatic determinism of durum wheat to the wheat spindle streak mosaic virus (WSSMV)*. Y. Holtz, M. Bonnefoy, V. Viader, M. Ardisson, N. Rode, G. Poux, P. Roumet, V. Marie-Jeanne, V. Ranwez, D. Gouache, J. David . **Theor Appl Genet**. (2017) [PDF](https://github.com/holtzy/Publication/blob/master/File/Wheat_WSSMV_HoltzEtAl.pdf), [code](https://github.com/holtzy/Publication-WSSMV-Resistance), [Web](https://link.springer.com/article/10.1007/s00122-017-2904-6)
 
-- *The Genetic Map Comparator: A User-Friendly Application to Display and Compare Genetic Maps*. Y. Holtz, J. David, V. Ranwez. **Bioinformatics**. [Web](https://academic.oup.com/bioinformatics/article/33/9/1387/2908431) [PDF](https://github.com/holtzy/Publication/blob/master/File/GenMapComp_HoltzEtAl.pdf), [Online Tool](http://www.agap-sunshine.inra.fr/genmapcomp/)
+- *The Genetic Map Comparator: A User-Friendly Application to Display and Compare Genetic Maps*. Y. Holtz, J. David, V. Ranwez. **Bioinformatics**. [Web](https://academic.oup.com/bioinformatics/article/33/9/1387/2908431), [PDF](https://github.com/holtzy/Publication/blob/master/File/GenMapComp_HoltzEtAl.pdf), [Online Tool](http://www.agap-sunshine.inra.fr/genmapcomp/)
 
 <br>
 
@@ -30,16 +30,16 @@
 
 ## 2014
 
-- *Genotyping by sequencing transcriptomes in an evolutionary pre-breeding durum wheat population.* Jacques David, Yan Holtz, Vincent Ranwez, Sylvain Santoni, Gautier Sarah, Morgane Ardisson, Gérard Poux Fréderic Choulet, Clémence Genthon, Pierre Roumet, Muriel Tavaud-Pirra. **Molecular Breeding** [Web](https://link.springer.com/article/10.1007/s11032-014-0179-z) [PDF](https://github.com/holtzy/Publication/blob/master/File/GenotBySeq_DavidEtAl.pdf)
+- *Genotyping by sequencing transcriptomes in an evolutionary pre-breeding durum wheat population.* Jacques David, Yan Holtz, Vincent Ranwez, Sylvain Santoni, Gautier Sarah, Morgane Ardisson, Gérard Poux Fréderic Choulet, Clémence Genthon, Pierre Roumet, Muriel Tavaud-Pirra. **Molecular Breeding** [Web](https://link.springer.com/article/10.1007/s11032-014-0179-z), [PDF](https://github.com/holtzy/Publication/blob/master/File/GenotBySeq_DavidEtAl.pdf)
 
 <br>
 
 
 ## 2012 - 2013
 
-- *Disentangling homeologous contigs in allo-tetraploid assembly: application to durum wheat.* V Ranwez, Y Holtz, G Sarah, M Ardisson, S Santoni, S Glémin, M Tavaud-Pirra, J. David . **BMC Bioinformatics.** [Web](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-S15-S15) [PDF](https://github.com/holtzy/Publication/blob/master/File/HomeoSplitter_RanwezEtAl.pdf)
+- *Disentangling homeologous contigs in allo-tetraploid assembly: application to durum wheat.* V Ranwez, Y Holtz, G Sarah, M Ardisson, S Santoni, S Glémin, M Tavaud-Pirra, J. David . **BMC Bioinformatics.** [Web](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-S15-S15), [PDF](https://github.com/holtzy/Publication/blob/master/File/HomeoSplitter_RanwezEtAl.pdf)
 
-- *New insights for estimating the genetic value of segregating apple progenies for irregular bearing during the first years of tree production.*  Jean-Baptiste Durand1, Baptiste Guitton, Jean Peyhardi, Yan Holtz, Yann Guédon, Catherine Trottier and Evelyne Costes. **J. Exp. Bot.** [Web](https://academic.oup.com/jxb/article/64/16/5099/592814) [PDF](https://github.com/holtzy/Publication/blob/master/File/IrrBearing_DurandEtAl.pdf)
+- *New insights for estimating the genetic value of segregating apple progenies for irregular bearing during the first years of tree production.*  Jean-Baptiste Durand1, Baptiste Guitton, Jean Peyhardi, Yan Holtz, Yann Guédon, Catherine Trottier and Evelyne Costes. **J. Exp. Bot.** [Web](https://academic.oup.com/jxb/article/64/16/5099/592814), [PDF](https://github.com/holtzy/Publication/blob/master/File/IrrBearing_DurandEtAl.pdf)
 
 - *Étude du déterminisme génétique de l’alternance du pommier.*   Yan Holtz. Mémoire de fin d’étude (2012).  [PDF](https://github.com/holtzy/Publication/blob/master/File/MasterThesis_Holtz.pdf)
 
