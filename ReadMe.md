@@ -1,10 +1,10 @@
 ## 2017
 
-- *How to optimize the precision of allele and haplotype frequency estimates using pooled-sequencing data*. Nicolas O. Rode, Yan Holtz, Karine Loridon, Sylvain Santoni, Joëlle Ronfort, Laurène Gay. **Molecular Ecology resources**. [Web]()
+- *How to optimize the precision of allele and haplotype frequency estimates using pooled-sequencing data*. Nicolas O. Rode, Yan Holtz, Karine Loridon, Sylvain Santoni, Joëlle Ronfort, Laurène Gay. **Molecular Ecology resources**. [Web](https://onlinelibrary.wiley.com/doi/abs/10.1111/1755-0998.12723)
 
-- *Evolutionary forces affecting synonymous variations in plant genomes*. Y. Clément, G. Sarah, Y. Holtz, F. Homa, …, J. David, S. Glémin. **PLOS Genetics**. [Web]()
+- *Evolutionary forces affecting synonymous variations in plant genomes*. Y. Clément, G. Sarah, Y. Holtz, F. Homa, …, J. David, S. Glémin. **PLOS Genetics**. [Web](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006799)
 
-- *Epistatic determinism of durum wheat to the wheat spindle streak mosaic virus (WSSMV)*. Y. Holtz, M. Bonnefoy, V. Viader, M. Ardisson, N. Rode, G. Poux, P. Roumet, V. Marie-Jeanne, V. Ranwez, D. Gouache, J. David . **Theor Appl Genet**. (2017) [PDF](), [code](), [web]()
+- *Epistatic determinism of durum wheat to the wheat spindle streak mosaic virus (WSSMV)*. Y. Holtz, M. Bonnefoy, V. Viader, M. Ardisson, N. Rode, G. Poux, P. Roumet, V. Marie-Jeanne, V. Ranwez, D. Gouache, J. David . **Theor Appl Genet**. (2017) [PDF](), [code](https://github.com/holtzy/Publication-WSSMV-Resistance), [web](https://link.springer.com/article/10.1007/s00122-017-2904-6)
 
 - *The Genetic Map Comparator: A User-Friendly Application to Display and Compare Genetic Maps*. Y. Holtz, J. David, V. Ranwez. **Bioinformatics**. [PDF](), [Web]()
 
