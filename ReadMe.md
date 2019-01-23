@@ -1,6 +1,6 @@
 ## 2019
 
-- *Exploring Comorbidity Within Mental Disorders Among a Danish National Population*. Oleguer Plana-Ripoll, Carsten Bøcker Pedersen, Yan Holtz, [...], John J. McGrath. *JAMA Psychiatry**. [Web](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2720421)
+- *Exploring Comorbidity Within Mental Disorders Among a Danish National Population*. Oleguer Plana-Ripoll, Carsten Bøcker Pedersen, Yan Holtz, [...], John J. McGrath. *JAMA Psychiatry*. [Web](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2720421)
 
 
 
