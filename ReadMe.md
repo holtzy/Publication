@@ -1,3 +1,20 @@
+## 2019
+
+- *Exploring Comorbidity Within Mental Disorders Among a Danish National Population*. Oleguer Plana-Ripoll, Carsten Bøcker Pedersen, Yan Holtz, [...], John J. McGrath. *JAMA Psychiatry**. [Web](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2720421)
+
+
+
+
+
+## 2018
+
+- *Efficient algorithms for Longest Common Subsequence of two bucket orders to speed up pairwise genetic map comparison*. Lisa de Mattéo, Yan Holtz, Vincent Ranwez, Sèverine Bérard. **Plos One**. [Web](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0208838), [R Package](https://github.com/holtzy/LCSLCIS)
+
+- *Genetic Consequences of Social Stratification in Great Britain*. Abdel Abdellaoui, David Hugh-Jones, [...], Yan Holtz, [...], Peter M. Visscher. **BioRxiv**. [Web](https://www.biorxiv.org/content/early/2018/10/30/457515)
+
+
+
+
 ## 2017
 
 - *How to optimize the precision of allele and haplotype frequency estimates using pooled-sequencing data*. Nicolas O. Rode, Yan Holtz, Karine Loridon, Sylvain Santoni, Joëlle Ronfort, Laurène Gay. **Molecular Ecology resources**. [Web](https://onlinelibrary.wiley.com/doi/abs/10.1111/1755-0998.12723)
