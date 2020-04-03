@@ -2,6 +2,8 @@
 
 - *Genome-wide association study identifies 143 loci associated with 25 hydroxyvitamin D concentration* Joana A Revez, Tian Lin, Zhen Qiao, Angli Xue,  Yan Holtz, [...], Jian Yang, Naomi R Wray, John J McGrath. **Nature Communication**. [Paper](https://www.nature.com/articles/s41467-020-15421-7)
 
+- *Comparative analysis based on transcriptomics and metabolomics data reveal differences between emmer and durum wheat in response to nitrogen starvation*. Romina Beleggia, Nooshin Omranian, Yan Holtz, [...], Roberto Papa. **bioRxiv**. [Paper](https://www.biorxiv.org/content/10.1101/2020.02.03.931717v1)
+
 
 ## 2019
 
