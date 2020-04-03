@@ -1,3 +1,8 @@
+## 2020
+
+- *Genome-wide association study identifies 143 loci associated with 25 hydroxyvitamin D concentration* Joana A Revez, Tian Lin, Zhen Qiao, Angli Xue,  Yan Holtz, [...], Jian Yang, Naomi R Wray, John J McGrath. **Nature Communication**. [Paper](https://www.nature.com/articles/s41467-020-15421-7)
+
+
 ## 2019
 
 - *Genome-wide association study identifies 143 loci associated with 25 hydroxyvitamin D concentration* Joana A Revez, Tian Lin, Zhen Qiao, Angli Xue,  Yan Holtz, [...], Jian Yang, Naomi R Wray, John J McGrath. **BioRxiv**. [Paper](https://www.biorxiv.org/content/10.1101/860767v1)
