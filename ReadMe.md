@@ -5,8 +5,6 @@
 
 ## 2019
 
-- *Genome-wide association study identifies 143 loci associated with 25 hydroxyvitamin D concentration* Joana A Revez, Tian Lin, Zhen Qiao, Angli Xue,  Yan Holtz, [...], Jian Yang, Naomi R Wray, John J McGrath. **BioRxiv**. [Paper](https://www.biorxiv.org/content/10.1101/860767v1)
-
 - *A comprehensive analysis of mortality-related health metrics associated with mental disorders: a nationwide, register-based cohort study*. Oleguer Plana-Ripoll, Carsten Bøcker Pedersen, Yan Holtz, [...], John J. McGrath, Thomas Laursen. **The Lancet** [Paper](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)32316-5/fulltext) [Dataviz](https://holtzy.github.io/Mortality/)
 
 - *Evolutionary transcriptomics reveals the origins of olives and the genomic changes associated with their domestication* Muriel Gros‐Balthazard, Guillaume Besnard, Gautier Sarah, Yan Holtz, Julie Leclercq, Sylvain Santoni, Daniel Wegmann, Sylvain Glémin, Bouchaib Khadari. **The Plant Journal**. [Paper](https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.14435)
